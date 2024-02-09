@@ -14,14 +14,21 @@ hero:
     text: View position details
 
 title: HIDIVE Lab
-tagline: Data visualization to drive discovery.
-intro: |
-  The HIDIVE Lab in the [Department of Biomedical Informatics](http://dbmi.hms.harvard.edu) at [Harvard Medical School](http://hms.harvard.edu) is a group of data scientists and software developers who are passionate about driving biomedical discovery by creating efficient and effective visual interfaces between analysts and data. We focus on the development of visual analysis tools for genomic and other biomedical data to address challenges in basic and applied research. We are particularly interested in applying our approaches in cancer genomics, epigenomics, and chromosome conformation studies. 
 
-  The most recent results of our work can always be found on [bioRxiv](http://biorxiv.org/search/author1%3ANils%2BGehlenborg), [medRxiv](https://www.medrxiv.org/search/author1:Nils+Gehlenborg), [arXiv](https://arxiv.org/search/?query=gehlenborg&searchtype=author&source=header), [osf Preprints](https://osf.io/preprints/discover?q=gehlenborg&sort=-date_updated), and on [GitHub](https://github.com/search?utf8=%E2%9C%93&q=topic%3Agehlenborglab&type=Repositories).
 ---
+<div class="usa-grid usa-section" style="padding-top: 0;">
+  <div class="usa-width-one-half">
+  <h1>Data visualization to drive discovery.</h1>
+  </div>
+  <div class="usa-width-one-half" markdown="1">
+  
+The HIDIVE Lab in the [Department of Biomedical Informatics](http://dbmi.hms.harvard.edu) at [Harvard Medical School](http://hms.harvard.edu) is a group of data scientists and software developers who are passionate about driving biomedical discovery by creating efficient and effective visual interfaces between analysts and data. We focus on the development of visual analysis tools for genomic and other biomedical data to address challenges in basic and applied research. We are particularly interested in applying our approaches in cancer genomics, epigenomics, and chromosome conformation studies. 
 
-<div class="usa-grid-full">
+The most recent results of our work can always be found on [bioRxiv](http://biorxiv.org/search/author1%3ANils%2BGehlenborg), [medRxiv](https://www.medrxiv.org/search/author1:Nils+Gehlenborg), [arXiv](https://arxiv.org/search/?query=gehlenborg&searchtype=author&source=header), [osf Preprints](https://osf.io/preprints/discover?q=gehlenborg&sort=-date_updated), and on [GitHub](https://github.com/search?utf8=%E2%9C%93&q=topic%3Agehlenborglab&type=Repositories).
+  
+  </div>
+</div>
+<div class="usa-grid usa-section">
   <div class="usa-width-one-third">
   <h3>Latest News</h3>
   </div>
