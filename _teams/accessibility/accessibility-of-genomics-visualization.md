@@ -23,6 +23,6 @@ AltGosling provides screen reader support for Gosling data visualizations, allow
 
 ## Call To Action
 
-[Access the GitHub Repo](https://github.com/thomcsmits/alt-gosling)
+[Access the GitHub Repo](https://github.com/gosling-lang/altgosling)
 
-[Try the demonstration](https://thomcsmits.github.io/alt-gosling/)
+[Try the demonstration](https://gosling-lang.org/alt-gosling/)
